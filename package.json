@@ -16,6 +16,7 @@
   "dependencies": {
     "axios": "^0.24.0",
     "core-js": "^3.6.5",
+    "electron-updater": "^4.6.1",
     "vue": "^3.0.0",
     "vuex": "^4.0.0-0"
   },
